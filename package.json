@@ -8,12 +8,12 @@
     "start": "next start"
   },
   "dependencies": {
-    "@chakra-ui/core": "^1.0.0-rc.5",
-    "@mdx-js/loader": "^1.6.18",
-    "@next/mdx": "^9.5.3",
-    "next": "9.5.3",
-    "react": "16.13.1",
-    "react-dom": "16.13.1"
+    "@chakra-ui/core": "^1.0.0-rc.9",
+    "@mdx-js/loader": "^1.6.22",
+    "@next/mdx": "^11",
+    "next": "11",
+    "react": "17.0.2",
+    "react-dom": "17.0.2"
   },
   "prettier": {
     "singleQuote": true,
